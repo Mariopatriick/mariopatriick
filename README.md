@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mariopatriick)
 
-#### My Github Starts
+#### My Github Stats
 
 ![mariopatriick GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariopatriick&show_icons=true&theme=transparent)
 
