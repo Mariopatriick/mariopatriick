@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![https: ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-![https://instagram.com/mariopatriick](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/mariopatriick?igsh=NjA1M2ExcTc4N2s2](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 
 
