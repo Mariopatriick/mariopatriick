@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <img width="2181" height="590" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/a40092d6-a007-483a-9abc-fcfee3b0c090" />
+
+
+#### Skils
+
+
+<img width="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
