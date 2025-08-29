@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="2181" height="590" alt="github-header-banner" src="https://github.com/user-attachments/assets/2205160e-0697-40bc-9f02-353be3b2bfd0" />
-
+<img width="2181" height="590" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/a40092d6-a007-483a-9abc-fcfee3b0c090" />
