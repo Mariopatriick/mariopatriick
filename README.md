@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](./mariopatriick-<img width="1809" height="642" alt="profil1" src="https://github.com/user-attachments/assets/41d5fea4-0a3a-40e7-ade9-7b492327d192" />
+)
+
+<img width="1809" height="642" alt="profil1" src="https://github.com/user-attachments/assets/41d5fea4-0a3a-40e7-ade9-7b492327d192" />
